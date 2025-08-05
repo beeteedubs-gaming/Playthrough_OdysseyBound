@@ -1,0 +1,1 @@
+This repository contains Save File(s), Config File(s), and Planning File(s) related to a RimWorld Series on the Beeteedubs Gaming channel. Intended for users who want to replicate the playthrough or use it as a baseline a playthrough.
