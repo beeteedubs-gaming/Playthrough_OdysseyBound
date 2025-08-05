@@ -1,0 +1,5024 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedideo>
+	<meta>
+		<gameVersion>1.6.4528 rev1223</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.odyssey</li>
+			<li>lomzie.psychicsensitivitybandwidth</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>imranfish.xmlextensions</li>
+			<li>adaptive.storage.framework</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>wvc.sergkart.biotech.moremechanoidsworkmodes</li>
+			<li>won.hair</li>
+			<li>co.uk.epicguru.whatsthatmod</li>
+			<li>victor.wallsaresolid</li>
+			<li>airetexture.core</li>
+			<li>vanillaexpanded.vtexe</li>
+			<li>sirvan.mwretextured</li>
+			<li>sirvan.mechanitorretexture</li>
+			<li>vanillaexpanded.vwel</li>
+			<li>nals.facialanimation</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>vanillaexpanded.vplantsesucculents</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vplantsemore</li>
+			<li>vanillaexpanded.vpersonaweaponse</li>
+			<li>neronix17.hd.pawns</li>
+			<li>neronix17.retexture.vanillahair</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>vanillaexpanded.vfespacer</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>vanillaexpanded.vfeproduction</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfefarming</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vfearchitect</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vchemfuele</li>
+			<li>vanillaexpanded.vbookse</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vaeaccessories</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>zal.uselesshair</li>
+			<li>jaxe.rimhud</li>
+			<li>andromeda.usefulmarks</li>
+			<li>battiebear.undergrounders.mortuary</li>
+			<li>shenanigans.tribaltattoos</li>
+			<li>smashphil.dropspot</li>
+			<li>orion.therapy</li>
+			<li>shenanigans.techtattoos</li>
+			<li>mlie.squaduitweaks</li>
+			<li>omgsplat.genesplit</li>
+			<li>sarg.alphamemes</li>
+			<li>vanillaexpanded.vfemedical</li>
+			<li>rebuild.cotr.doorsandcorners</li>
+			<li>iceman.smoothwallsandfloors</li>
+			<li>sarg.smartspeed</li>
+			<li>owlchemist.smartfarming</li>
+			<li>rabiosus.slimrecharger</li>
+			<li>haecriver.simplymorecolors</li>
+			<li>kathanon.showweapontallies</li>
+			<li>memegoddess.searchanddestroy</li>
+			<li>katana.scenarioamender</li>
+			<li>mlie.savethingasimage</li>
+			<li>mobius.royaltytweaks</li>
+			<li>rooboid.hdhair</li>
+			<li>rooboid.dreadlockhairshd</li>
+			<li>sierra.rt.generaltraits</li>
+			<li>rimsenal.hair</li>
+			<li>rimfridge.kv.rw</li>
+			<li>garwel.readoutsplus</li>
+			<li>lvlvbnh.raisespecialistlimit</li>
+			<li>hellrevenger.quickarea</li>
+			<li>dawnsglow.qualcolor</li>
+			<li>lts.persp</li>
+			<li>scherub.planningextended</li>
+			<li>owlchemist.perspectivepaths</li>
+			<li>biowreck.personaldoors</li>
+			<li>fed1splay.pawntargetfix</li>
+			<li>spacemoth.pfeedprisoners</li>
+			<li>victor.mechscanpaint</li>
+			<li>oracle.erin.tattoos</li>
+			<li>dawnsglow.numbers</li>
+			<li>overheadmeal.patch</li>
+			<li>mangone.noabandonedcamp</li>
+			<li>dizzyeevee.nomapedgelimit</li>
+			<li>doug.nojobauthors</li>
+			<li>bar0th.nodebris</li>
+			<li>radzerp.naturalpaths</li>
+			<li>radzerp.naturallakes</li>
+			<li>oblitus.mylittleplanet</li>
+			<li>tidal.morevanilla.textures</li>
+			<li>zal.moreutilitypacks</li>
+			<li>mo.mhscanner</li>
+			<li>dd.unofficial.notfood.mendandrecycle</li>
+			<li>pribovich.memorialstele</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>asf.deepstorage</li>
+			<li>danceninja.lifterplzdomorejobs</li>
+			<li>smxrez.laserreexamined</li>
+			<li>dizzyeevee.keepthecube</li>
+			<li>linnun.keepconverting</li>
+			<li>mlie.justputitoverthere</li>
+			<li>dark.jobinbar</li>
+			<li>kimo.gunlink</li>
+			<li>glitchgoblin.gravesareforcolonists</li>
+			<li>gerrymon.uvt</li>
+			<li>fluffy.followme</li>
+			<li>tials.floordrawings</li>
+			<li>ferny.easycaravanformation</li>
+			<li>belinko.demogaming</li>
+			<li>erin.hair2</li>
+			<li>erin.hairredux</li>
+			<li>erin.body.texture</li>
+			<li>erin.bg3.hair</li>
+			<li>heatherathebyne.easyroyalheirstyling</li>
+			<li>s7.dyeaesthetic</li>
+			<li>dsp.halituisamaricanous</li>
+			<li>dubwise.dubsmintmenus</li>
+			<li>runningbugs.dubsmenusrightclickaction</li>
+			<li>woolyung.dotheritualsyourselves</li>
+			<li>defi.defensivepositions</li>
+			<li>espio.preggers</li>
+			<li>mlie.customprisonerinteractions</li>
+			<li>sc.curbstone</li>
+			<li>marceline.cribretexture</li>
+			<li>captaingeorge.craftablebulkshells</li>
+			<li>nehr.mechtechchips</li>
+			<li>petetimessix.compacthediffs</li>
+			<li>kikohi.coloreddeepresources</li>
+			<li>zal.chooseyourrecipe</li>
+			<li>childrentraitsaffectlearning.mod</li>
+			<li>zylle.childrensdrawings</li>
+			<li>owlchemist.chickennests</li>
+			<li>void.charactereditor</li>
+			<li>neronix17.retexture.charactereditor</li>
+			<li>cedaro.csa</li>
+			<li>devdisigdu.bulk.components</li>
+			<li>el.biotechmechrt</li>
+			<li>s1.bwbmlocalcomplete</li>
+			<li>nalzurin.betterdistresscall</li>
+			<li>mlie.autonameanimals</li>
+			<li>nibato.autoextractgenes</li>
+			<li>linnun.autocastspecialistcommands</li>
+			<li>arrestandrelease.1trickponyta</li>
+			<li>sarg.alphagenes</li>
+			<li>xeonovadan.visiblepants</li>
+			<li>jgh.wvcwvc</li>
+			<li>mlie.royaltyunlockworkingemperor</li>
+			<li>consolidatedtraits.lc.rw</li>
+			<li>frozensnowfox.morequests</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>vanillaexpanded.vplantsemushrooms</li>
+			<li>vanillaexpanded.helixiengas</li>
+			<li>neronix17.asimov</li>
+			<li>amch.eragon.hcgenefabrication</li>
+			<li>mehni.pickupandhaul</li>
+			<li>unlimitedhugs.allowtool</li>
+			<li>frozensnowfox.complexjobs</li>
+			<li>drilledhead.preservationsarcophagus</li>
+			<li>farmable.neutroamine.upscaled</li>
+			<li>better.plants</li>
+			<li>cf.anomalyupscaled</li>
+			<li>veltaris.colonistbar</li>
+			<li>odz.male.hairstyles</li>
+			<li>odz.female.hairstyles</li>
+			<li>redram.stoneconversion</li>
+			<li>reel.facialanims</li>
+			<li>vanillaexpanded.vtexe.facialanims</li>
+			<li>inglix.fasterbiosculptingpod</li>
+			<li>hellrevenger.autoextractprisonerovum</li>
+			<li>vanillaracesexpanded.customicons</li>
+			<li>sarg.alphapropsparks</li>
+			<li>vanillaexpanded.vnutriente</li>
+			<li>zed.0xff.vnpe.minigrinder</li>
+			<li>vanillaexpanded.vanillabackstoriesexpanded</li>
+			<li>mrkociak.biotechtunnelersaredeepdrills</li>
+			<li>smxrez.permitsreexamined</li>
+			<li>arquebus.morepersonatraits</li>
+			<li>rabiosus.buildertweaksreplica</li>
+			<li>orion.xevarimhair</li>
+			<li>neronix17.retexture.xevarimhair</li>
+			<li>won2.hair</li>
+			<li>neronix17.retexture.wonhairwomen</li>
+			<li>neronix17.retexture.wonhairmen</li>
+			<li>divinederivative.romance</li>
+			<li>neronix17.retexture.vanillabeards</li>
+			<li>neronix17.retexture.rimsenalrimhair</li>
+			<li>rebuild.embrasures</li>
+			<li>dingo.noforcedslowdown</li>
+			<li>sinnamon.moreritualrewards</li>
+			<li>neronix17.cosmorim.microcommsconsole</li>
+			<li>neronix17.hairstyles</li>
+			<li>sea.consistentgeneinheritancecontinued</li>
+			<li>bonible.vanillalaserretexture</li>
+			<li>asp.halituisamaricanous</li>
+			<li>ferny.noodysseycategory</li>
+			<li>aelanna.transparentsubstructure</li>
+			<li>neronix17.toolbox</li>
+			<li>neronix17.subpersonashells</li>
+			<li>sarg.smartodyssey</li>
+			<li>neronix17.shieldgenerators</li>
+			<li>archangel.replantsptrees</li>
+			<li>neptimus7.progressrenderer</li>
+			<li>teiwaz.oot</li>
+			<li>zal.majesticfoilageframework</li>
+			<li>zal.majesticcomigopack</li>
+			<li>mangone.gravanchorboostslaunchquality</li>
+			<li>azravos.factioncustomizer</li>
+			<li>buildfromstorage.programmerlily.com</li>
+			<li>vanillaexpanded.ideo.relicsandartifacts</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>vanillaexpanded.ideo.iconsandsymbols</li>
+			<li>alleykat.persistentprecepts</li>
+			<li>happycam.conditioncauserretexture</li>
+			<li>nuff.ideofacticon</li>
+			<li>kattalisk.gravenginegivespower</li>
+			<li>hawkwood.facialanimationsxenotypecompatibility</li>
+			<li>zal.eltexbodysuit</li>
+			<li>gavinx.airtightwalls</li>
+			<li>pirateby.factionmanager.bytgparcher.updated</li>
+			<li>cyanobot.flushbiotuning</li>
+			<li>kikohi.bettergroundpenetratingscanner</li>
+			<li>shipdontnuketile.sentinel</li>
+			<li>vanillaexpanded.temperature</li>
+			<li>co.uk.epicguru.meleeanimation</li>
+			<li>mlie.norandomideologies</li>
+			<li>gguake.optionalnamedisplay</li>
+			<li>opponent019.sanguophagefeedrelationship</li>
+			<li>ben.automaticnightowl</li>
+			<li>seohyeon.optimizationmeats</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>hatti.qualitybuilder</li>
+			<li>jgh.qualitybuilder</li>
+			<li>ray1203.simplecamerasetting</li>
+			<li>roolo.runandgun.kotobike</li>
+			<li>mlie.dynamiccarryingcapacity</li>
+			<li>neronix17.tweaksgalore</li>
+			<li>lvlvbnh.rolesuntied</li>
+			<li>rashomcree.odyssey.orbitalplatforms</li>
+			<li>cadmonkey.fishingworktype</li>
+			<li>zoarak.mechplat</li>
+			<li>cf.odysseyupscalled</li>
+			<li>ratys.rtsolarflareshield</li>
+			<li>phoenix135.vanillahsolarshieldretexture</li>
+			<li>yuki.fpsandtps</li>
+			<li>dev.tobot.vpe.betterautocast</li>
+			<li>kenx00x.xenotypeandideologybuttonstitlescreen16update</li>
+			<li>smallmine.heavyshuttle</li>
+			<li>frozensnowfox.betterexplorationloot</li>
+			<li>rashomcree.odyssey.asteroidgrounds</li>
+			<li>rimworld.randomcoughdrop.geneassistant</li>
+			<li>raddrooster.hairfix</li>
+			<li>turnovus.submod.backpacksarenotbelts</li>
+			<li>frozensnowfox.indoortreefarms</li>
+			<li>nitrodev.absolutelynoroof</li>
+			<li>johnson1893.no.resource.readout</li>
+			<li>as1aw.justpickitup</li>
+			<li>rabiosus.noqualityfilter</li>
+			<li>abc.gunlinkpatch.1.5</li>
+			<li>com.yayo.yayoani.continued</li>
+			<li>masstell.treesinspace</li>
+			<li>happycam.odysseyconsoleretexture</li>
+			<li>happycam.lrmscannerretexture</li>
+			<li>qwertaii.substructureanywhere</li>
+			<li>adarafirecaster.buyablequestrewards</li>
+			<li>nebulae.biggervacbarriers</li>
+			<li>cat2002.showhair</li>
+			<li>dubwise.dubsperformanceanalyzer.steam</li>
+			<li>thelorddrake.usebedrolls</li>
+			<li>mrwireman.powercell.01</li>
+			<li>dubwise.dubsskylights</li>
+			<li>bjr1984.dubsskylights.addon</li>
+			<li>kilo.odysseusvacset</li>
+			<li>redundant.oopsallgenepacks</li>
+			<li>shashlichnik.srtsexpanded</li>
+			<li>sangel.srts.battlestargalactica</li>
+			<li>seekiworksmod.no16</li>
+			<li>forien.naturalizegenome</li>
+			<li>nuanki.controlledatomizer</li>
+			<li>bjr1984.dubsskylights.addon.r.dc.patch</li>
+			<li>flex10.beautifullodyssey</li>
+			<li>kilo.w1ngvacsuitset</li>
+			<li>denev.smartturretcovering</li>
+			<li>versengt.moretradeships</li>
+			<li>io.github.cvrunmin.orbittradenotonlygenebank</li>
+			<li>inglix.widermarriagespot</li>
+			<li>tradingpost.programmerlily.com</li>
+			<li>rw.mod.transmog</li>
+			<li>bart.stg</li>
+			<li>mingtuwuxiang.spacebasedecorative</li>
+			<li>nmeijer.configurablementalbreaks</li>
+			<li>jm.bettertraders</li>
+			<li>exploriters.siiftun1857.launchintoemptyspace</li>
+			<li>hope.spaceritual</li>
+			<li>belinko.reloadshields</li>
+			<li>gg.simplebuildableterrain</li>
+			<li>craftableodysseytraps.sentinel</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>2380740</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>Odyssey</li>
+			<li>Psychic Sensitivity Affects Bandwidth</li>
+			<li>HugsLib</li>
+			<li>XML Extensions</li>
+			<li>Adaptive Storage Framework</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>WVC - Work Modes</li>
+			<li>Won hair_men</li>
+			<li>What's That Mod</li>
+			<li>Walls are solid</li>
+			<li>AI Upscaled Textures - Core</li>
+			<li>Vanilla Textures Expanded</li>
+			<li>Van's Retexture : Melee Weapons</li>
+			<li>Van's Retexture : Mechanitor</li>
+			<li>Vanilla Weapons Expanded - Laser</li>
+			<li>[NL] Facial Animation - WIP</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Plants Expanded - Succulents</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Plants Expanded - More Plants</li>
+			<li>Vanilla Persona Weapons Expanded</li>
+			<li>Vanilla Pawns Retextured</li>
+			<li>Vanilla Hair Retextured</li>
+			<li>Vanilla Hair Expanded</li>
+			<li>Vanilla Furniture Expanded - Spacer Module</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>Vanilla Furniture Expanded - Production</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Farming</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Furniture Expanded - Architect</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Chemfuel Expanded</li>
+			<li>Vanilla Books Expanded</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Apparel Expanded — Accessories</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Useless Hair (Continued)</li>
+			<li>RimHUD</li>
+			<li>Useful Marks</li>
+			<li>Undergrounders: Mortuary Crypts and Catacombs</li>
+			<li>Tribal Tattoos</li>
+			<li>Trade Ships Drop Spot</li>
+			<li>Therapy (Continued)</li>
+			<li>Tech Tattoos</li>
+			<li>Squad UI Tweaks (Continued)</li>
+			<li>Split Genepack</li>
+			<li>Alpha Memes</li>
+			<li>Vanilla Furniture Expanded - Medical Module</li>
+			<li>ReBuild: Doors and Corners</li>
+			<li>Smooth Walls and Floors</li>
+			<li>Smart Speed</li>
+			<li>Smart Farming</li>
+			<li>Slim Recharger</li>
+			<li>Simply More Colors</li>
+			<li>Show Weapon Tallies</li>
+			<li>Search and Destroy (Continued)</li>
+			<li>Scenario Amender [1.5 - 1.6]</li>
+			<li>Save Thing As Image</li>
+			<li>Royalty Tweaks</li>
+			<li>Roo's HD Hairstyles</li>
+			<li>Roo's HD Dreadlock Hairstyles</li>
+			<li>RimTraits - General Traits</li>
+			<li>Rimsenal - Hair pack</li>
+			<li>RimFridge: Now with Shelves!</li>
+			<li>Readouts+</li>
+			<li>Raise specialist limit</li>
+			<li>Quick Area</li>
+			<li>Quality Colors (1.6 Temp)</li>
+			<li>Psychic Emanator Retex + Self Powered</li>
+			<li>Planning Extended</li>
+			<li>Perspective: Paths (unlisted)</li>
+			<li>Personal Doors</li>
+			<li>PawnTargetFix</li>
+			<li>Paramedics Feed Prisoners</li>
+			<li>Painting is construction</li>
+			<li>Oracle + Erin's HD Tattoos</li>
+			<li>Numbers (1.6 Temp)</li>
+			<li>Not Overhead Meal</li>
+			<li>NoAbandonedCamp</li>
+			<li>No Map Edge Limit</li>
+			<li>No Job Authors</li>
+			<li>No Debris</li>
+			<li>Natural Paths</li>
+			<li>Natural Lakes</li>
+			<li>My Little Planet</li>
+			<li>More Vanilla Textures</li>
+			<li>More Utility Packs (Continued)</li>
+			<li>Metalhorror Scanner</li>
+			<li>MendAndRecycle</li>
+			<li>Memorial Stele</li>
+			<li>Map Preview</li>
+			<li>LWM's Adaptive Deep Storage</li>
+			<li>Lifter Plz Do More Jobs</li>
+			<li>Laser Weapons: Re-Examined</li>
+			<li>Keep the Cube</li>
+			<li>Keep Converting</li>
+			<li>Just Put It Over There</li>
+			<li>Job In Bar</li>
+			<li>Gunlink sucks less</li>
+			<li>Graves Are For Colonists</li>
+			<li>Gerrymon's Upscaled Vanilla Textures</li>
+			<li>Follow Me</li>
+			<li>Floordrawings</li>
+			<li>Ferny's Easy Caravan Formation</li>
+			<li>Eyepatch (Continued)</li>
+			<li>Erin's Hairstyles 2</li>
+			<li>Erin's Hairstyles - Redux</li>
+			<li>Erin's Body Retexture</li>
+			<li>Erin's Baldur's Gate 3 Hairs</li>
+			<li>Easy Royal Heir Styling</li>
+			<li>Dye Aesthetic</li>
+			<li>Dune Style Pack</li>
+			<li>Dubs Mint Menus</li>
+			<li>Dubs Mint Menus Recipe Right Click Open InfoCard</li>
+			<li>Do The Rituals Yourselves</li>
+			<li>Defensive Positions 1.6</li>
+			<li>Default Pregnancy Approach</li>
+			<li>Custom Prisoner Interactions</li>
+			<li>Curb Stone</li>
+			<li>Crib Retexture</li>
+			<li>Craftable Bulk Shells</li>
+			<li>Craft Mechtech Chips</li>
+			<li>Compact Hediffs</li>
+			<li>Colored deep resources</li>
+			<li>Choose Your Recipe (Continued)</li>
+			<li>Childrens' Traits Affect Learning</li>
+			<li>Childrens Drawings</li>
+			<li>Chicken Nests</li>
+			<li>Character Editor</li>
+			<li>Character Editor Retextured</li>
+			<li>Change Style Anytime</li>
+			<li>Bulk Components</li>
+			<li>Biotech Mechanoid Retexture</li>
+			<li>Better Workbench Management Complete</li>
+			<li>Better Distress Call</li>
+			<li>Auto-Name Animals (Continued)</li>
+			<li>AutoExtractGenes</li>
+			<li>Auto-Cast Specialist Commands</li>
+			<li>Arrest and Release</li>
+			<li>Alpha Genes</li>
+			<li>[XND] Visible Pants</li>
+			<li>[sbz] WVC - Work Modes retexture</li>
+			<li>[Royalty] Unlock Working Emperor (Continued)</li>
+			<li>[LC] Consolidated Traits</li>
+			<li>[FSF] More Quests</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>Vanilla Plants Expanded - Mushrooms</li>
+			<li>Vanilla Helixien Gas Expanded</li>
+			<li>Asimov</li>
+			<li>Gene Fabrication</li>
+			<li>Pick Up And Haul</li>
+			<li>Allow Tool</li>
+			<li>[FSF] Complex Jobs</li>
+			<li>[DHM]Preservation_Sarcophagus</li>
+			<li>[CF]Better Looking Farmable Neutroamine</li>
+			<li>[CF] Better Looking Plants</li>
+			<li>[CF] Anomaly Upscaled</li>
+			<li>[AV] Show Utility Apparel</li>
+			<li>[1.5] Odz Hairs - Male</li>
+			<li>[1.5] Odz Hairs - Female</li>
+			<li>Stone Conversion Recipes</li>
+			<li>Reel's Facial Animation Textures</li>
+			<li>Vanilla Textures Expanded - [NL] Facial Animation</li>
+			<li>Faster Biosculpter Pod</li>
+			<li>Auto Extract Prisoner's Ovum</li>
+			<li>Vanilla Races Expanded - Custom Icons</li>
+			<li>Alpha Props - Parks and Gardens</li>
+			<li>Vanilla Nutrient Paste Expanded</li>
+			<li>Vanilla Nutrient Paste Expanded: MiniGrinder</li>
+			<li>Vanilla Backstories Expanded</li>
+			<li>Tunnelers ARE deep drills</li>
+			<li>Permits: Re-Examined</li>
+			<li>More Persona Traits</li>
+			<li>BuilderTweaksReplica</li>
+			<li>Xeva's Rimhair</li>
+			<li>Xeva's Rimhair Retextured</li>
+			<li>Won hair_women </li>
+			<li>Won Hair Women Retextured</li>
+			<li>Won Hair Men Retextured</li>
+			<li>Way Better Romance</li>
+			<li>Vanilla Beards Retextured</li>
+			<li>Rimsenal Hair Retextured</li>
+			<li>Rebuild: Embrasures</li>
+			<li>No Forced Slowdown</li>
+			<li>More Ritual Rewards (1.4+)</li>
+			<li>Micro Comms Console</li>
+			<li>Hair Extensions</li>
+			<li>Consistent Gene Inheritance (1.6 VERSION)</li>
+			<li>Bonible's VEW:Laser Retexture</li>
+			<li>Astronomy Style Pack</li>
+			<li>No Odyssey Category</li>
+			<li>Transparent Substructure</li>
+			<li>Tabula Rasa</li>
+			<li>Subpersona Shells</li>
+			<li>Smart Odyssey</li>
+			<li>Shield Generators</li>
+			<li>Replantable Special Trees</li>
+			<li>Progress Renderer</li>
+			<li>Odyssey Orbital Trader</li>
+			<li>Majestic Foliage Framework[HH] (Continued)</li>
+			<li>Majestic Foliage - Comigo's Original (Continued)</li>
+			<li>GravAnchorBoostsLaunchQuality</li>
+			<li>Faction Customizer</li>
+			<li>[PL] Build From Storage</li>
+			<li>Vanilla Ideology Expanded - Relics and Artifacts</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Ideology Expanded - Icons and Symbols</li>
+			<li>Persistent Precepts</li>
+			<li>Mechanoid Cluster Retexture</li>
+			<li>Ideoligion Icon as Faction Icon</li>
+			<li>GravEngine Transmits Power</li>
+			<li>Facial Animations Xenotype Compatibility</li>
+			<li>Eltex Bodysuit (Continued)</li>
+			<li>Air tight wall</li>
+			<li>Faction Manager v1.6</li>
+			<li>Flush Biosculpter Tuning</li>
+			<li>Better ground-penetrating scanner</li>
+			<li>No Gravship Launch Site World Map</li>
+			<li>Vanilla Temperature Expanded</li>
+			<li>Melee Animation</li>
+			<li>No Random Ideologies</li>
+			<li>Optional Name Display</li>
+			<li>Sanguophage Feed Relationship</li>
+			<li>Automatic Night Owl</li>
+			<li>Optimization: Meats - C# Edition</li>
+			<li>Simple sidearms</li>
+			<li>QualityBuilder</li>
+			<li>[sbz] QualityBuilder retexture</li>
+			<li>SimpleCameraSetting</li>
+			<li>RunAndGun</li>
+			<li>Dynamic Carrying Capacity (Continued)</li>
+			<li>Tweaks Galore</li>
+			<li>Roles untied to memes</li>
+			<li>Orbital Platforms</li>
+			<li>Fishing Work Type</li>
+			<li>Mechanitor Orbital Platform</li>
+			<li>[CF] Odyssey Upscaled</li>
+			<li>RT Solar Flare Shield</li>
+			<li>Vanilla Solar Shield Retexture</li>
+			<li>FPS And TPS</li>
+			<li>Better autocasting for Vanilla Psycasts Expanded</li>
+			<li>[1.6 Fork] Xenotype And Ideology Buttons TitleScreen</li>
+			<li>Orca Shuttle</li>
+			<li>[FSF] Better Exploration Loot</li>
+			<li>Asteroid Grounds</li>
+			<li>Random's Gene Assistant</li>
+			<li>[Rad]Hair appears Below jacket Fix</li>
+			<li>Packs Are Not Belts</li>
+			<li>[FSF] Indoor Tree Farms</li>
+			<li>Absolutely No Roof</li>
+			<li>No Resource Readout</li>
+			<li>Just pick it up!</li>
+			<li>No Quality Filter</li>
+			<li>Gunlink with helmet</li>
+			<li>Yayo's Animation (Continued)</li>
+			<li>Trees in Space</li>
+			<li>Pilot Console Retexture</li>
+			<li>Long Range Mineral Scanner Retexture</li>
+			<li>Gravship Substructure Anywhere</li>
+			<li>Buyable Quest Rewards</li>
+			<li>Bigger Vac Barriers</li>
+			<li>[CAT] Show Hair With Hats or Hide All Hats</li>
+			<li>Dubs Performance Analyzer</li>
+			<li>Use Bedrolls</li>
+			<li>Practical Powercells</li>
+			<li>Dubs Skylights</li>
+			<li>Dubs Skylights Addon</li>
+			<li>Odysseus Vacsuit Set</li>
+			<li>Oops All Gene Banks</li>
+			<li>SRTS Expanded (continued)</li>
+			<li>SRTS Expanded - Battlestar Galactica (continued)</li>
+			<li>Allow Tool Fixed Patch</li>
+			<li>Forien's Naturalize Genome</li>
+			<li>Controlled Atomizer</li>
+			<li>Dubs Skylights Addon R:DC Patch</li>
+			<li>BeautifullOdyssey</li>
+			<li>W1NG VacSuit Set</li>
+			<li>Smart Turret Covering</li>
+			<li>More Trade Ships</li>
+			<li>Not Only GeneBank in Orbit Trade</li>
+			<li>Wider Marriage Spot</li>
+			<li>[PL] Trading Spot</li>
+			<li>Transmog (Fork)</li>
+			<li>Gravship Toxifier Generator</li>
+			<li>[MUS]太空基地家具Space Base Furniture</li>
+			<li>Configurable Mental Breaks</li>
+			<li>Better Traders</li>
+			<li>Launch into empty space</li>
+			<li>Orbit Summons</li>
+			<li>Rechargeable Low-shield Pack(Continued)</li>
+			<li>Simple Buildable Terrain</li>
+			<li>Wasp Trap/Pack + Sentry Trap/Pack</li>
+		</modNames>
+	</meta>
+	<ideo>
+		<foundation Class="IdeoFoundation_Deity">
+			<def>Deity</def>
+			<place>Nuchadus</place>
+			<deities />
+		</foundation>
+		<name>Gravometric Designs</name>
+		<adjective>builder</adjective>
+		<memberName>Builder</memberName>
+		<leaderTitleMale>Commander</leaderTitleMale>
+		<leaderTitleFemale>Commander</leaderTitleFemale>
+		<description>Since their emergence, archotechs have extended their consciousness amongst the stars. Archotechs touch every human consciousness directly on a regular basis, but only believers can feel and benefit from their wisdom. Some day, the archotechs will finish their moral debate about the fate of humanity. Those who follow their signs will be admitted to a higher plane of existence, and those that do not will end.</description>
+		<descriptionTemplate>Since their emergence, archotechs have extended their consciousness amongst the stars. Archotechs touch every human consciousness directly on a regular basis, but only believers can feel and benefit from their wisdom. Some day, the archotechs will finish their moral debate about the fate of humanity. Those who follow their signs will be admitted to a higher plane of existence, and those that do not will end.</descriptionTemplate>
+		<culture>Astropolitan</culture>
+		<iconDef>ArchotechE</iconDef>
+		<colorDef>haec404040</colorDef>
+		<memes>
+			<li>Structure_Archist</li>
+			<li>Shipborn</li>
+		</memes>
+		<precepts>
+			<li>
+				<name>space habitat</name>
+				<def>SpaceHabitat_Preferred</def>
+				<ID>1256</ID>
+				<randomSeed>-163837491</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>funeral (no corpse)</name>
+				<def>AM_FuneralNoCorpse</def>
+				<ID>1259</ID>
+				<randomSeed>-1323206539</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Once a {IDEO} member dies and the body is lost, other {MEMBERS} gather around an empty grave for {RITUAL_labelDef}.</ritualExpectedDesc>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>AM_FuneralNoCorpsePattern</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyEmptyGrave">
+					<def>AnyEmptyGrave</def>
+					<parent>Precept_1259</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Funeral">
+					<def>Funeral</def>
+				</behavior>
+				<triggers>
+					<li Class="AlphaMemes.RitualObligationTrigger_NoCorpse">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>AttendedFuneralNoCorpse</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Empty Requiem</name>
+				<def>Funeral</def>
+				<ID>1340</ID>
+				<randomSeed>99453213</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFuneral</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef}.</ritualExpectedDesc>
+				<ritualExpectedDescNoAdjective>You can hold a funeral for {PAWN_nameDef}.</ritualExpectedDescNoAdjective>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>FuneralStandard</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_GraveWithTarget">
+					<def>GraveWithTargetsCorpse</def>
+					<parent>Precept_1340</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Funeral">
+					<def>Funeral</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_MemberDied">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+					</li>
+				</triggers>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>AttendedFuneral</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>indoors</name>
+				<def>Indoors_Acceptable</def>
+				<ID>1264</ID>
+				<randomSeed>-781907142</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Animal">
+				<name>venerated animal</name>
+				<def>AnimalVenerated</def>
+				<ID>1265</ID>
+				<randomSeed>1664715211</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>Walrus</thingDef>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Festival of Space</name>
+				<def>Festival</def>
+				<ID>1344</ID>
+				<randomSeed>1679660321</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away.</descOverride>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</ritualExpectedDesc>
+				<shortDescOverride>skylantern festival</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/CelebrationPartySkylanterns</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationSkyLanterns</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_SkyLanterns">
+					<def>CampfireSkylanterns</def>
+					<parent>Precept_1344</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>CelebrationSkyLanterns</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>7</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>Random</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Skylantern">
+					<def>CelebrationSkyLanterns</def>
+					<compDatas>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist>
+					<li>Orbit</li>
+				</layerBlacklist>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Stellar Advent</name>
+				<def>Festival</def>
+				<ID>1345</ID>
+				<randomSeed>-2120821913</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</ritualExpectedDesc>
+				<iconPathOverride>UI/Icons/Rituals/RitualFestival</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyChat</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyGatherSpotOrAltar">
+					<def>GatheringSpotOrAltar</def>
+					<parent>Precept_1345</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>DateRitual</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>49</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>Random</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_FromQuality">
+					<def>CelebratedDate</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Builder Jubilee</name>
+				<def>Festival</def>
+				<ID>1342</ID>
+				<randomSeed>1965462668</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other.</descOverride>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</ritualExpectedDesc>
+				<shortDescOverride>dance party</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/CelebrationPartyDanceTech</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<minTechLevel>Industrial</minTechLevel>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyDanceTech</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_LightBall">
+					<def>LightBall</def>
+					<parent>Precept_1342</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_DancePartyTech">
+					<def>DancePartyTech</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>56</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>Random</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_DanceParty">
+					<def>CelebrationPartyDanceTech</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Celestial Party</name>
+				<def>Festival</def>
+				<ID>1343</ID>
+				<randomSeed>659282231</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>A social ritual where people release skylanterns. Participants will assemble wooden skylanterns while socializing, then release them and watch them drift away.</descOverride>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</ritualExpectedDesc>
+				<shortDescOverride>skylantern festival</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/CelebrationPartySkylanterns</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationSkyLanterns</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_SkyLanterns">
+					<def>CampfireSkylanterns</def>
+					<parent>Precept_1343</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>CelebrationSkyLanterns</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>42</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>Random</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Skylantern">
+					<def>CelebrationSkyLanterns</def>
+					<compDatas>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist>
+					<li>Orbit</li>
+				</layerBlacklist>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>Archotechnic Fair</name>
+				<def>Festival</def>
+				<ID>1341</ID>
+				<randomSeed>1458448300</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<descOverride>A dance party with loud music. Participants will gather, socialize, and dance to have fun and connect with each other.</descOverride>
+				<nameMaker>NamerRitualFestival</nameMaker>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</ritualExpectedDesc>
+				<shortDescOverride>dance party</shortDescOverride>
+				<iconPathOverride>UI/Icons/Rituals/CelebrationPartyDanceTech</iconPathOverride>
+				<patternGroupTag>CelebratedDate</patternGroupTag>
+				<minTechLevel>Industrial</minTechLevel>
+				<isAnytime>True</isAnytime>
+				<canBeAnytime>True</canBeAnytime>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>CelebrationPartyDanceTech</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_LightBall">
+					<def>LightBall</def>
+					<parent>Precept_1341</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_DancePartyTech">
+					<def>DancePartyTech</def>
+				</behavior>
+				<triggers>
+					<li Class="RitualObligationTrigger_Date">
+						<mustBePlayerIdeo>True</mustBePlayerIdeo>
+						<triggerDaysSinceStartOfYear>26</triggerDaysSinceStartOfYear>
+					</li>
+				</triggers>
+				<attachableOutcomeEffect>Random</attachableOutcomeEffect>
+				<outcomeEffect Class="RitualOutcomeEffectWorker_DanceParty">
+					<def>CelebrationPartyDanceTech</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_RitualSeat">
+				<name>ritual seat</name>
+				<def>IdeoRitualSeat</def>
+				<ID>1268</ID>
+				<randomSeed>-1877474885</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>Pew</thingDef>
+			</li>
+			<li>
+				<name>Temperature</name>
+				<def>Temperature_Tough</def>
+				<ID>1269</ID>
+				<randomSeed>-726095424</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>execution</name>
+				<def>Execution_HorribleIfInnocent</def>
+				<ID>1270</ID>
+				<randomSeed>1779145542</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>research</name>
+				<def>Research_Fast</def>
+				<ID>1331</ID>
+				<randomSeed>1953350011</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>slavery</name>
+				<def>Slavery_Disapproved</def>
+				<ID>1271</ID>
+				<randomSeed>-2019851278</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>organ use</name>
+				<def>OrganUse_HorribleSellOK</def>
+				<ID>1274</ID>
+				<randomSeed>2011503743</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>cannibalism</name>
+				<def>Cannibalism_Abhorrent</def>
+				<ID>1275</ID>
+				<randomSeed>459047017</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>disfigurement</name>
+				<def>AM_Disfigurement_Disliked</def>
+				<ID>1276</ID>
+				<randomSeed>-1938024292</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>fertility</name>
+				<def>AM_FertilityIssue_Normal</def>
+				<ID>1277</ID>
+				<randomSeed>1322936860</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>children learning</name>
+				<def>AM_LearningRate_Normal</def>
+				<ID>1278</ID>
+				<randomSeed>1297584244</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>lovin' frequency</name>
+				<def>AM_LovinFrequency_Normal</def>
+				<ID>1279</ID>
+				<randomSeed>92295646</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>ocular trees</name>
+				<def>AM_OcularTrees_Indifferent</def>
+				<ID>1280</ID>
+				<randomSeed>605909687</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>anima tree linking</name>
+				<def>AnimaTreeLinking</def>
+				<ID>1281</ID>
+				<randomSeed>-157438686</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>AnimaTreeLinking</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnimaTree">
+					<def>AnimaTree</def>
+					<parent>Precept_1281</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_SelectedThing">
+					<def>SelectedThing</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_AnimaLinking">
+					<def>AnimaTreeLinking</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_AnimaTreeLinking">
+					<def>AnimaTreeLinking</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>blindness</name>
+				<def>Blinding_Horrible</def>
+				<ID>1282</ID>
+				<randomSeed>1262546726</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>child birth</name>
+				<def>ChildBirth</def>
+				<ID>1283</ID>
+				<randomSeed>-1776945918</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<allowOtherInstances>True</allowOtherInstances>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>ChildBirth</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_ChildBirth">
+					<def>ChildBirth</def>
+					<parent>Precept_1283</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_ChildBirth">
+					<def>ChildBirth</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_ChildBirth">
+					<def>ChildBirth</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>conversion ritual</name>
+				<def>Conversion</def>
+				<ID>1284</ID>
+				<randomSeed>-1771846158</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<ritualExplanation>In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase.</ritualExplanation>
+				<canMergeGizmosFromDifferentIdeos>False</canMergeGizmosFromDifferentIdeos>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Conversion</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotOrAltar">
+					<def>RitualSpotOrAltar</def>
+					<parent>Precept_1284</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_Altar">
+					<def>AltarOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Conversion">
+					<def>Conversion</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Conversion">
+					<def>Conversion</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>corpses</name>
+				<def>Corpses_Ugly</def>
+				<ID>1285</ID>
+				<randomSeed>526552378</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>public execution</name>
+				<def>Execution</def>
+				<ID>1286</ID>
+				<randomSeed>-1318489750</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Execution</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotIdeogramOrAltar">
+					<def>RitualSpotIdeogramOrAltar</def>
+					<parent>Precept_1286</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_Execution">
+					<def>Execution</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Execution">
+					<def>Execution</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>fungus</name>
+				<def>FungusEating_Despised</def>
+				<ID>1287</ID>
+				<randomSeed>-1288200949</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>gravship launch</name>
+				<def>GravshipLaunch</def>
+				<ID>1288</ID>
+				<randomSeed>-936788671</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<iconPathOverride>UI/Commands/LaunchGravship</iconPathOverride>
+				<isAnytime>True</isAnytime>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>GravshipLaunch</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_GravshipLaunch">
+					<def>GravshipLaunch</def>
+					<parent>Precept_1288</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior Class="RitualBehaviorWorker_GravshipLaunch">
+					<def>GravshipLaunch</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_GravshipLaunch">
+					<def>GravshipLaunch</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>diversity of thought</name>
+				<def>IdeoDiversity_Standard</def>
+				<ID>1289</ID>
+				<randomSeed>1380045020</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>insect meat</name>
+				<def>InsectMeatEating_Despised_Classic</def>
+				<ID>1290</ID>
+				<randomSeed>-1996653702</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>leader speech</name>
+				<def>LeaderSpeech</def>
+				<ID>1291</ID>
+				<randomSeed>-829290817</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<canMergeGizmosFromDifferentIdeos>False</canMergeGizmosFromDifferentIdeos>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>LeaderSpeech</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_IdeoBuildingOrRitualSpot">
+					<def>AnyIdeoBuildingOrRitualSpot</def>
+					<parent>Precept_1291</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Speech">
+					<def>LeaderSpeech</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Speech">
+					<def>AttendedSpeech</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>eating nutrient paste</name>
+				<def>NutrientPasteEating_DontMind</def>
+				<ID>1293</ID>
+				<randomSeed>201030375</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>role change</name>
+				<def>RoleChange</def>
+				<ID>1295</ID>
+				<randomSeed>141685424</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>RoleChange</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_AnyRitualSpotIdeogramOrAltar">
+					<def>RitualSpotIdeogramOrAltar</def>
+					<parent>Precept_1295</parent>
+				</obligationTargetFilter>
+				<targetFilter Class="RitualTargetFilter_AltarOrIdeogram">
+					<def>AltarIdeogramOrRitualSpot</def>
+				</targetFilter>
+				<behavior>
+					<def>RoleChange</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_RoleChange">
+					<def>RoleChange</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataRoleChangeParticipants">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>scarification</name>
+				<def>Scarification_Horrible</def>
+				<ID>1296</ID>
+				<randomSeed>1708479926</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>skullspike</name>
+				<def>Skullspike_Disapproved</def>
+				<ID>1297</ID>
+				<randomSeed>-1817248236</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_Ritual">
+				<name>throne speech</name>
+				<def>ThroneSpeech</def>
+				<ID>1298</ID>
+				<randomSeed>1177720</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>ThroneSpeech</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_UsableThrone">
+					<def>UsableThrone</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_ThroneSpeech">
+					<def>ThroneSpeech</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Speech">
+					<def>AttendedSpeech</def>
+					<compDatas>
+						<li IsNull="True" />
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li Class="RitualOutcomeComp_DataRoomStatCached" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>tree connection ritual</name>
+				<def>TreeConnection</def>
+				<ID>1299</ID>
+				<randomSeed>-857008492</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<iconPathOverride>UI/Icons/Rituals/TreeConnection</iconPathOverride>
+				<isAnytime>True</isAnytime>
+				<playsIdeoMusic>True</playsIdeoMusic>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TreeConnection</sourcePattern>
+				<obligationTargetFilter Class="RitualObligationTargetWorker_UnconnectedGauranlenTree">
+					<def>GauranlenTree</def>
+					<parent>Precept_1299</parent>
+				</obligationTargetFilter>
+				<targetFilter IsNull="True" />
+				<behavior>
+					<def>TreeConnection</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_ConnectToTree">
+					<def>ConnectToTree</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>trial</name>
+				<def>Trial</def>
+				<ID>1300</ID>
+				<randomSeed>-1202358971</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>Trial</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>Trial</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>Trial</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>trial</name>
+				<def>TrialMentalState</def>
+				<ID>1301</ID>
+				<randomSeed>1237627567</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TrialMentalState</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>TrialMentalState</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>TrialMentalState</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li Class="Precept_Ritual">
+				<name>trial</name>
+				<def>TrialPrisoner</def>
+				<ID>1302</ID>
+				<randomSeed>1286927202</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<ritualOnlyForIdeoMembers>True</ritualOnlyForIdeoMembers>
+				<generatedAttachedReward>True</generatedAttachedReward>
+				<sourcePattern>TrialPrisoner</sourcePattern>
+				<obligationTargetFilter IsNull="True" />
+				<targetFilter Class="RitualTargetFilter_IdeoBuildingOrRitualSpot">
+					<def>IdeoBuildingOrRitualSpot</def>
+				</targetFilter>
+				<behavior Class="RitualBehaviorWorker_Trial">
+					<def>TrialPrisoner</def>
+				</behavior>
+				<triggers />
+				<outcomeEffect Class="RitualOutcomeEffectWorker_Trial">
+					<def>Trial</def>
+					<compDatas>
+						<li Class="RitualOutcomeComp_DataThingPresence">
+							<presentForTicks>
+								<keys />
+								<values />
+							</presentForTicks>
+						</li>
+						<li IsNull="True" />
+						<li IsNull="True" />
+					</compDatas>
+				</outcomeEffect>
+				<layerWhitelist IsNull="True" />
+				<layerBlacklist IsNull="True" />
+			</li>
+			<li>
+				<name>death</name>
+				<def>VME_Death_Normal</def>
+				<ID>1303</ID>
+				<randomSeed>685001462</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>dumb labor</name>
+				<def>VME_DumbLabor_Indifferent</def>
+				<ID>1304</ID>
+				<randomSeed>-1953014948</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>illness</name>
+				<def>VME_Illness_Indifferent</def>
+				<ID>1305</ID>
+				<randomSeed>-1623599726</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>insect jelly</name>
+				<def>VME_InsectJellyEaten_Neutral_Classic</def>
+				<ID>1306</ID>
+				<randomSeed>-1762806283</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>mood</name>
+				<def>VME_Mood_Normal</def>
+				<ID>1307</ID>
+				<randomSeed>1394305653</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>recreation</name>
+				<def>VME_Recreation_Normal</def>
+				<ID>1308</ID>
+				<randomSeed>-1141869613</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>tainted apparel</name>
+				<def>VME_TaintedApparel_Disapproved</def>
+				<ID>1309</ID>
+				<randomSeed>1334023203</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>tattered apparel</name>
+				<def>VME_TatteredApparel_Disapproved</def>
+				<ID>1310</ID>
+				<randomSeed>1250383231</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>violence</name>
+				<def>VME_Violence_Acceptable</def>
+				<ID>1311</ID>
+				<randomSeed>-1545106225</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>Women's lovers</name>
+				<def>LoverCount_Female_None</def>
+				<ID>1312</ID>
+				<randomSeed>-2077253701</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>Men's lovers</name>
+				<def>LoverCount_Male_None</def>
+				<ID>1313</ID>
+				<randomSeed>94039600</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>physical love</name>
+				<def>Lovin_Free</def>
+				<ID>1329</ID>
+				<randomSeed>1181588411</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>female clothing</name>
+				<def>Nudity_Female_NoRules</def>
+				<ID>1327</ID>
+				<randomSeed>-1503678216</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>male clothing</name>
+				<def>Nudity_Male_NoRules</def>
+				<ID>1328</ID>
+				<randomSeed>856665446</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>Women's spouses</name>
+				<def>SpouseCount_Female_MaxOne</def>
+				<ID>1314</ID>
+				<randomSeed>-2110321943</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>Men's spouses</name>
+				<def>SpouseCount_Male_MaxOne</def>
+				<ID>1315</ID>
+				<randomSeed>-601683886</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li>
+				<name>marriage name</name>
+				<def>MarriageName_AlwaysMans</def>
+				<ID>1330</ID>
+				<randomSeed>-1365272841</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+			</li>
+			<li Class="Precept_RoleSingle">
+				<name>Commander</name>
+				<def>IdeoRole_Leader</def>
+				<ID>1317</ID>
+				<randomSeed>1637139515</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<apparelRequirements />
+				<restrictToSupremeGender>True</restrictToSupremeGender>
+				<chosenPawn>
+					<pawn>null</pawn>
+					<abilities>
+						<li>
+							<def>LeaderSpeech</def>
+							<Id>280</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_280_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_280</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>WorkDrive</def>
+							<Id>281</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_281_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_281</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>CombatCommand</def>
+							<Id>282</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_282_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_282</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>Trial</def>
+							<Id>283</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_283_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_283</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>AM_ChangeStyle</def>
+							<Id>284</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_284_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_284</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>VME_LeaderConversionRitual</def>
+							<Id>285</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_285_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_285</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>VME_LeaderConvert</def>
+							<Id>286</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_286_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_286</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>VME_LeaderPreachHealth</def>
+							<Id>287</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_287_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_287</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>VME_LeaderReassure</def>
+							<Id>288</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_288_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_288</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>VME_LeaderCounsel</def>
+							<Id>289</Id>
+							<sourcePrecept>Precept_1317</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_289_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_289</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+					</abilities>
+				</chosenPawn>
+			</li>
+			<li Class="Precept_RoleSingle">
+				<name>XO</name>
+				<def>IdeoRole_Moralist</def>
+				<ID>1318</ID>
+				<randomSeed>1289321401</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<apparelRequirements />
+				<chosenPawn>
+					<pawn>null</pawn>
+					<abilities>
+						<li>
+							<def>Convert</def>
+							<Id>290</Id>
+							<sourcePrecept>Precept_1318</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_290_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_290</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>Counsel</def>
+							<Id>291</Id>
+							<sourcePrecept>Precept_1318</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_291_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_291</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>Reassure</def>
+							<Id>292</Id>
+							<sourcePrecept>Precept_1318</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_292_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_292</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>ConversionRitual</def>
+							<Id>293</Id>
+							<sourcePrecept>Precept_1318</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbility">
+										<loadID>Ability_293_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_293</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+						<li>
+							<def>PreachHealth</def>
+							<Id>294</Id>
+							<sourcePrecept>Precept_1318</sourcePrecept>
+							<verbTracker>
+								<verbs>
+									<li Class="Verb_CastAbilityTouch">
+										<loadID>Ability_294_0</loadID>
+										<currentTarget>(0, 0, 0)</currentTarget>
+										<currentDestination>(0, 0, 0)</currentDestination>
+										<lastShotTick>-999999</lastShotTick>
+										<canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+										<MVCF_ManagedVerb IsNull="True" />
+										<ability>Ability_294</ability>
+									</li>
+								</verbs>
+							</verbTracker>
+							<maxCharges>0</maxCharges>
+							<charges>0</charges>
+						</li>
+					</abilities>
+				</chosenPawn>
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Xenobioligist</name>
+				<def>IdeoRole_AnimalsSpecialist</def>
+				<ID>1339</ID>
+				<randomSeed>-418892910</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Chief Medical Officer</name>
+				<def>IdeoRole_MedicalSpecialist</def>
+				<ID>1337</ID>
+				<randomSeed>-1871149064</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Security Officer</name>
+				<def>IdeoRole_MeleeSpecialist</def>
+				<ID>1334</ID>
+				<randomSeed>-1395495463</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Geophysicist</name>
+				<def>IdeoRole_MiningSpecialist</def>
+				<ID>1336</ID>
+				<randomSeed>1671726589</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Botanist</name>
+				<def>IdeoRole_PlantSpecialist</def>
+				<ID>1338</ID>
+				<randomSeed>208534044</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Chief Engineer</name>
+				<def>IdeoRole_ProductionSpecialist</def>
+				<ID>1332</ID>
+				<randomSeed>-1535895469</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Science Officer</name>
+				<def>IdeoRole_ResearchSpecialist</def>
+				<ID>1335</ID>
+				<randomSeed>-1180669548</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_RoleMulti">
+				<name>Security Officer</name>
+				<def>IdeoRole_ShootingSpecialist</def>
+				<ID>1333</ID>
+				<randomSeed>-907174633</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<active>True</active>
+				<apparelRequirements />
+			</li>
+			<li Class="Precept_Building">
+				<name>Figure of Stars</name>
+				<def>IdeoBuilding</def>
+				<ID>1346</ID>
+				<randomSeed>413450191</randomSeed>
+				<usesDefiniteArticle>True</usesDefiniteArticle>
+				<thingDef>Ideogram</thingDef>
+				<presenceDemand>
+					<ID>24</ID>
+					<minExpectation>High</minExpectation>
+					<roomRequirements>
+						<li Class="RoomRequirement_Area">
+							<area>25</area>
+						</li>
+						<li Class="RoomRequirement_Impressiveness">
+							<impressiveness>60</impressiveness>
+						</li>
+						<li Class="RoomRequirement_ForbiddenBuildings">
+							<labelKey>RoomRequirementNoBeds</labelKey>
+							<buildingTags>
+								<li>Bed</li>
+							</buildingTags>
+						</li>
+						<li Class="RoomRequirement_ForbiddenBuildings">
+							<labelKey>RoomRequirementNoProductionFacilities</labelKey>
+							<buildingTags>
+								<li>Production</li>
+							</buildingTags>
+						</li>
+					</roomRequirements>
+				</presenceDemand>
+			</li>
+		</precepts>
+		<thingStyleCategories>
+			<li>
+				<category>Techist</category>
+				<priority>3</priority>
+			</li>
+		</thingStyleCategories>
+		<usedSymbols>
+			<li>Archonic creed</li>
+			<li>archotechnic</li>
+			<li>Archotechnist</li>
+		</usedSymbols>
+		<usedSymbolPacks>
+			<li>Archotechnics</li>
+		</usedSymbolPacks>
+		<style>
+			<hairFrequencies>
+				<vals>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li />
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li />
+					<li />
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li />
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>FemaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<gender>MaleUsually</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Female</gender>
+					</li>
+				</vals>
+			</hairFrequencies>
+			<beardFrequencies>
+				<vals>
+					<li>
+						<frequency>Frequent</frequency>
+						<gender>Any</gender>
+					</li>
+					<li />
+					<li />
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li />
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Rare</frequency>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+					<li>
+						<frequency>Uncommon</frequency>
+					</li>
+				</vals>
+			</beardFrequencies>
+			<tattooFrequencies>
+				<vals>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<frequency>Normal</frequency>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+					<li>
+						<gender>Any</gender>
+					</li>
+				</vals>
+			</tattooFrequencies>
+			<styleForThingDef>
+				<keys>
+					<li>Gun_ToxbombLauncher</li>
+					<li>Ideogram</li>
+				</keys>
+				<values>
+					<li>
+						<category>Techist</category>
+						<styleDef>AM_Techist_ToxLauncher</styleDef>
+					</li>
+					<li>
+						<category>Buddhist</category>
+						<styleDef>Buddhist_IdeogramA</styleDef>
+					</li>
+				</values>
+			</styleForThingDef>
+		</style>
+		<fluid>True</fluid>
+	</ideo>
+</savedideo>

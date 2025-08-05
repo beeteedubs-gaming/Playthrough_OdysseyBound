@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TabulaRasa.TabulaRasaSettings">
+		<raceSpawningSettings>
+			<keys />
+			<values />
+		</raceSpawningSettings>
+		<raceSpawningWeights>
+			<keys />
+			<values />
+		</raceSpawningWeights>
+		<markedAsSeen>
+			<li>TweaksGalore_12072025</li>
+		</markedAsSeen>
+		<empireHostilityFixedFactions>
+			<keys>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>ResearchExpedition</li>
+				<li>GravshipCrew</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</empireHostilityFixedFactions>
+	</ModSettings>
+</SettingsBlock>

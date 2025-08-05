@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="JobInBar.Settings">
+		<CacheRefreshRate>1000</CacheRefreshRate>
+		<OnlyDrawCustomJobTitles>True</OnlyDrawCustomJobTitles>
+		<JobLabelVerticalOffset>20</JobLabelVerticalOffset>
+		<OffsetEquippedExtra>-6</OffsetEquippedExtra>
+		<OffsetEquippedByLabels>False</OffsetEquippedByLabels>
+		<MinColonistBarScale>0.75999999</MinColonistBarScale>
+		<DefaultJobLabelColor>RGBA(1.000, 1.000, 1.000, 0.749)</DefaultJobLabelColor>
+		<CurrentTaskLabelColor>RGBA(1.000, 0.800, 0.400, 1.000)</CurrentTaskLabelColor>
+		<DrawLabelOnlyOnHover>True</DrawLabelOnlyOnHover>
+		<RoleColorOnlyIfAbilityAvailable>True</RoleColorOnlyIfAbilityAvailable>
+		<DrawRoyalTitles>False</DrawRoyalTitles>
+		<RoyalTitleColor>RGBA(0.851, 0.851, 0.749, 1.000)</RoyalTitleColor>
+		<EnabledPatchCategories>
+			<li>AddLabels</li>
+			<li>BioTabButton</li>
+			<li>ColorName</li>
+			<li>NamePawn</li>
+			<li>OffsetEquippedWeapon</li>
+			<li>PlaySettings</li>
+			<li>StopTracking</li>
+		</EnabledPatchCategories>
+		<DisabledPatchCategories />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SanguophageFeedRelationship.SFR_ModSettings">
+		<SanguophageFeedRelationship.Sanguophile_baseMoodEffect>10</SanguophageFeedRelationship.Sanguophile_baseMoodEffect>
+		<SanguophageFeedRelationship.Sanguophile_generated>False</SanguophageFeedRelationship.Sanguophile_generated>
+		<SanguophageFeedRelationship.Sanguophile_opinionBonus>10</SanguophageFeedRelationship.Sanguophile_opinionBonus>
+		<SanguophageFeedRelationship.Sanguophile_opinionEffect>15</SanguophageFeedRelationship.Sanguophile_opinionEffect>
+		<SanguophageFeedRelationship.Sanguofriend_baseMoodEffect>1</SanguophageFeedRelationship.Sanguofriend_baseMoodEffect>
+		<SanguophageFeedRelationship.Sanguofriend_generated>False</SanguophageFeedRelationship.Sanguofriend_generated>
+		<SanguophageFeedRelationship.Sanguofriend_opinionEffect>7</SanguophageFeedRelationship.Sanguofriend_opinionEffect>
+		<SanguophageFeedRelationship.Sanguophobe_baseMoodEffect>30</SanguophageFeedRelationship.Sanguophobe_baseMoodEffect>
+		<SanguophageFeedRelationship.Sanguophobe_generated>False</SanguophageFeedRelationship.Sanguophobe_generated>
+		<SanguophageFeedRelationship.Sanguophobe_opinionPenalty>20</SanguophageFeedRelationship.Sanguophobe_opinionPenalty>
+		<SanguophageFeedRelationship.Sanguophobe_opinionEffect>20</SanguophageFeedRelationship.Sanguophobe_opinionEffect>
+		<SanguophageFeedRelationship.Lover_baseMoodEffect>5</SanguophageFeedRelationship.Lover_baseMoodEffect>
+		<SanguophageFeedRelationship.Lover_opinionEffect>10</SanguophageFeedRelationship.Lover_opinionEffect>
+		<SanguophageFeedRelationship.CloseFriend_baseMoodEffect>3</SanguophageFeedRelationship.CloseFriend_baseMoodEffect>
+		<SanguophageFeedRelationship.CloseFriend_minimumOpinion>25</SanguophageFeedRelationship.CloseFriend_minimumOpinion>
+		<SanguophageFeedRelationship.CloseFriend_opinionEffect>5</SanguophageFeedRelationship.CloseFriend_opinionEffect>
+		<SanguophageFeedRelationship.HemogenNutrition>0.349999994</SanguophageFeedRelationship.HemogenNutrition>
+		<SanguophageFeedRelationship.autoFeedOptionsOff>False</SanguophageFeedRelationship.autoFeedOptionsOff>
+		<SanguophageFeedRelationship.autoFeedFree>True</SanguophageFeedRelationship.autoFeedFree>
+		<SanguophageFeedRelationship.minimumSeverity>0.449900001</SanguophageFeedRelationship.minimumSeverity>
+	</ModSettings>
+</SettingsBlock>

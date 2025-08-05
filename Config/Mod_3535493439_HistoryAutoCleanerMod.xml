@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="HistoryAutoCleaner.HistoryAutoCleanerSettings">
+		<taleCleanIntervalDays>120</taleCleanIntervalDays>
+		<enableTaleCleaning>True</enableTaleCleaning>
+	</ModSettings>
+</SettingsBlock>

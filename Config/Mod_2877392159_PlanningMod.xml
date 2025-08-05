@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PlanningExtended.Settings.PlanningSettings">
+		<lastLoadedPlans>
+			<li>Blueprints - BSG Battlestar Mod</li>
+			<li>Wayfarer's Waypoint</li>
+			<li>1GravEngineCircle</li>
+			<li>Blueprints - ST Nova Class</li>
+			<li>Blueprints - BSG Battlestar v</li>
+			<li>BSG - Battlestar MODDED</li>
+			<li>BSG - Battlestar VANILLA</li>
+			<li>Archean Tree</li>
+			<li>Wayfarer</li>
+			<li>The Mourning Star</li>
+		</lastLoadedPlans>
+		<planDesignationSettings>
+			<keys>
+				<li>PlanWall</li>
+				<li>PlanFloors</li>
+				<li>PlanDoors</li>
+				<li>PlanObjects</li>
+			</keys>
+			<values>
+				<li>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<color>Structure_PurpleDeep</color>
+				</li>
+			</values>
+		</planDesignationSettings>
+	</ModSettings>
+</SettingsBlock>

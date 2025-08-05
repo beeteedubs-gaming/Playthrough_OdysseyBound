@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SimpleCameraSetting.ModSetting">
+		<sizeRange>2~115</sizeRange>
+		<zoomSpeed>2.98402047</zoomSpeed>
+		<smoothZoom>True</smoothZoom>
+		<silhouetteDistance>64.9826355</silhouetteDistance>
+		<followCameraKey>
+			<label>Follow Camera Key</label>
+			<key>Backspace</key>
+		</followCameraKey>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NoRandomIdeologies.NoRandomIdeologiesSettings">
+		<PreferedIdeology>
+			<keys>
+				<li>Beggars</li>
+				<li>Entities</li>
+				<li>Insect</li>
+				<li>Mechanoid</li>
+				<li>OutlanderRefugee</li>
+				<li>Pilgrims</li>
+				<li>TradersGuild</li>
+			</keys>
+			<values>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>Space Marshals</li>
+			</values>
+		</PreferedIdeology>
+		<FactionIgnore>
+			<li>TradersGuild</li>
+		</FactionIgnore>
+		<DefaultSetting>./Vanilla</DefaultSetting>
+	</ModSettings>
+</SettingsBlock>

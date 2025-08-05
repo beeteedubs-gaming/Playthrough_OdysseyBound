@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterRomance.Settings">
+		<asexualChance>5</asexualChance>
+		<bisexualChance>20</bisexualChance>
+		<gayChance>10</gayChance>
+		<straightChance>65</straightChance>
+		<aceAroChance>5</aceAroChance>
+		<aceBiChance>20</aceBiChance>
+		<aceHomoChance>10</aceHomoChance>
+		<aceHeteroChance>65</aceHeteroChance>
+		<minOpinionRomance>20</minOpinionRomance>
+		<fertilityMod>ludeon.rimworld.biotech</fertilityMod>
+	</ModSettings>
+</SettingsBlock>
