@@ -1,1 +1,6 @@
-This repository contains Save File(s), Config File(s), and Planning File(s) related to a RimWorld Series on the Beeteedubs Gaming channel. Intended for users who want to replicate the playthrough or use it as a baseline a playthrough.
+This repository contains various folders from my RimWorld by Ludeon Studios folder for players interested in using this playthrough as template for their own.
+Saves; Starting Save file for this series.
+Config; Config folder that should include various files for mod settings, also includes ModConfig.xml which will set the mod load order.
+Planning; My initial starting plans for basebuilding.
+
+May include Ideos and Xenotypes folders.
